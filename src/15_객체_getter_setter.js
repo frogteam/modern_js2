@@ -12,7 +12,7 @@ ES 6 에서 계산된 프로퍼티 이름이 추가
 https://www.ecma-international.org/ecma-262/6.0/#sec-method-definitions
 
 
-JS 에서 매우 유용
+JS 에서 매우 유용  
 
 */
 
